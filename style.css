@@ -1,0 +1,49 @@
+/* body{
+    background-image: url(th.jpeg);
+    background-repeat: no-repeat;
+    width:100vw;
+    background-size: 60%;
+} */
+
+body{
+    padding:50px 100px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;*/
+    
+    background-color:lightgreen;
+    
+}
+.container{
+    text-align: center;
+    background-color: cadetblue;
+    padding:50px;
+    border-radius: 25px;
+}
+h1{
+    color: #000000; 
+    text-align: center;
+    
+}
+
+.scale{
+    display:inline-block;
+
+}
+
+label{
+    color:#FFFFFF;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.temp{
+    padding:5px 10px;
+    margin:10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width:250px;
+    
+}
+
